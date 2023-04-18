@@ -5,3 +5,5 @@
 5. Piña
 6. salami
 7. anchoas
+8. champiñoes
+9. Pollo
